@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DisplayApp</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="show_snackbar">Show Snackbar</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="password">Password</string>
+</resources>
